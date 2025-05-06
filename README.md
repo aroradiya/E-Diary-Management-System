@@ -18,3 +18,13 @@ The E-Diary Management System is a digital platform that allows users to maintai
 🎨 Rich text formatting for entries (if applicable) <br><br>
 
 🛠️ Technologies Used
+
+-Frontend: HTML, CSS, JavaScript, React.js
+
+-Backend:  Django / Flask
+
+-Database: SQLite
+
+-API Technologies: Restful API
+
+
