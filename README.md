@@ -15,7 +15,7 @@ The E-Diary Management System is a digital platform that allows users to maintai
 
 📂 Categorization and tagging support
 
-🎨 Rich text formatting for entries (if applicable) <br><br>
+🎨 Rich text formatting for entries  <br><br>
 
 🛠️ Technologies Used
 
