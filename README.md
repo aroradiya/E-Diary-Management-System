@@ -25,13 +25,46 @@ The E-Diary Management System is a digital platform that allows users to maintai
 
 -Database: SQLite
 
--API Technologies: Restful API <br.<br>
+-API Technologies: Restful API <br> <br>
 
 🛡️ Security & Privacy <br><br>
 -Passwords are securely hashed using bcrypt
 
 -User sessions are protected via JWT / secure cookies
 
--All user data is encrypted (if implemented)
+-All user data is encrypted 
+
+📷 Screenshots
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+📁 Project Structure <br><br>
+
+e-diary-management-system/
+├── backend/                # API logic and database
+├── frontend/               # React or frontend files
+├── .env                    # Environment variables
+├── README.md               # This file
+
+
+🧑‍💻 Contributing <br><br>
+Contributions are welcome! Please fork the repo, make your changes, and submit a pull request.
+
+
+
 
 
