@@ -54,10 +54,10 @@ The E-Diary Management System is a digital platform that allows users to maintai
 
 📁 Project Structure <br><br>
 
-e-diary-management-system/
-├── backend/                # API logic and database
-├── frontend/               # React or frontend files
-├── .env                    # Environment variables
+e-diary-management-system/ <br>
+├── backend/                # API logic and database <br>
+├── frontend/               # React or frontend files <br>
+├── .env                    # Environment variables <br>
 ├── README.md               # This file
 
 
