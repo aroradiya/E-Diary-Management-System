@@ -42,7 +42,7 @@ User Login <br> <br>
 ![Alt Text](https://github.com/aroradiya/E-Diary-Management-System/blob/main/WhatsApp%20Image%202025-05-06%20at%209.35.58%20AM.jpeg?raw=true)
 
 Dashboard <br><br>
-
+![Alt Text](https://github.com/aroradiya/E-Diary-Management-System/blob/main/35937df1-7bf4-4471-9ccc-8a2229e99143.jpg?raw=true)
 
 
 
