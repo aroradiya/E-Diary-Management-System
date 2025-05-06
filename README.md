@@ -36,8 +36,11 @@ The E-Diary Management System is a digital platform that allows users to maintai
 
 📷 Screenshots <br><br>
 
-User Login <br>
+User Login <br> <br>
 ![Alt Text](https://github.com/aroradiya/E-Diary-Management-System/blob/main/WhatsApp%20Image%202025-05-06%20at%209.35.58%20AM.jpeg?raw=true)
+
+Dashboard <br><br>
+
 
 
 
