@@ -34,7 +34,11 @@ The E-Diary Management System is a digital platform that allows users to maintai
 
 -All user data is encrypted 
 
-📷 Screenshots
+📷 Screenshots <br><br>
+
+User Login <br>
+![Alt Text](
+
 
 
 
