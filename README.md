@@ -33,9 +33,7 @@ The E-Diary Management System is a digital platform that allows users to maintai
 -User sessions are protected via JWT / secure cookies
 
 -All user data is encrypted 
-
 <br><br>
-
 📷 Screenshots <br><br>
 
 User Login <br> <br>
@@ -63,7 +61,6 @@ Dashboard <br><br>
 
 
 📁 Project Structure <br><br>
-
 e-diary-management-system/ <br> <br>
 ├── backend/                    # API logic and database <br>
 ├── frontend/                   # React or frontend files <br>
