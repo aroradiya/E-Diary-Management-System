@@ -25,6 +25,13 @@ The E-Diary Management System is a digital platform that allows users to maintai
 
 -Database: SQLite
 
--API Technologies: Restful API
+-API Technologies: Restful API <br.<br>
+
+🛡️ Security & Privacy <br><br>
+-Passwords are securely hashed using bcrypt
+
+-User sessions are protected via JWT / secure cookies
+
+-All user data is encrypted (if implemented)
 
 
