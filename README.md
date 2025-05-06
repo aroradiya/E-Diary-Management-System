@@ -1,8 +1,8 @@
 
-📘 E-Diary Management System
+📘 E-Diary Management System <br><br>
 The E-Diary Management System is a digital platform that allows users to maintain personal or professional diary entries in a secure, user-friendly environment. It offers features like creating, editing, deleting, and organizing diary entries by date and category, with support for user authentication and optional cloud synchronization.
 
-✨ Features
+✨ Features <br> <br>
 📝 Create, update, and delete diary entries
 
 🔍 Search and filter entries by date or keywords
